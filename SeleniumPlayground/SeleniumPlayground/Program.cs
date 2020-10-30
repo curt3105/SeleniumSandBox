@@ -10,6 +10,7 @@ namespace SeleniumPlayground
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
